@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![Azizbek Xoliqov](https://i.ibb.co/brKk3CL/Web-Photo-Editor.jpg)]()
 <h1 align="center">Hi 👋, I'm Azizbek</h1>
 <h3 align="center">Mobile Developer</h3>
 

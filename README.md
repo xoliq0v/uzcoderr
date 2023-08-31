@@ -1,7 +1,6 @@
 [![Azizbek Xoliqov](https://i.ibb.co/nrp0RSr/photo-2023-08-31-08-05-53.jpg)]()
 <h1 align="center">Hi 👋, I'm Azizbek</h1>
 <h3 align="center">Mobile Developer</h3>
-<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e475h5z2yozq16e3i8ibot97eob35sl98kkes3o83iw&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" alt="Coding Work From Home GIF by Domme Space" style="width: 500px; height: 375px; left: 0px; top: 0px; opacity: 0;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uzcoderr&label=Profile%20views&color=0e75b6&style=flat" alt="uzcoderr" /> </p>
 

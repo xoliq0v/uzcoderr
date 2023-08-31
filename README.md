@@ -1,4 +1,4 @@
-[![Azizbek Xoliqov](https://i.ibb.co/brKk3CL/Web-Photo-Editor.jpg)]()
+[![Azizbek Xoliqov](https://i.ibb.co/nrp0RSr/photo-2023-08-31-08-05-53.jpg)]()
 <h1 align="center">Hi 👋, I'm Azizbek</h1>
 <h3 align="center">Mobile Developer</h3>
 
